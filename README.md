@@ -30,7 +30,7 @@ Script que combina operações aritméticas e vetoriais com geração de gráfic
 
 - **R** — Linguagem de programação estatística
 - **RStudio** — Ambiente de desenvolvimento
-- **AVA** — Ambiente Virtual de Aprendizagem para apoio teórico
+- **AVA** — Ambiente Virtual de Aprendizagem para apoio teórico do IFRO
 
 ---
 
